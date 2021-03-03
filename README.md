@@ -53,6 +53,9 @@
   * [Stackoverflow](https://stackoverflow.com/questions/40661716/real-life-use-of-doubly-linked-list)
   * [Quora](https://www.quora.com/What-is-real-life-use-of-circular-doubly-linked-lists)
 ### Java Code
+* [LinkedList](https://github.com/abhishek-honey/travelHimalayasCodeWise/blob/main/code/java/src/main/java/linkedlist/LinkedList.java)
+* [CircularLinkedList](https://github.com/abhishek-honey/travelHimalayasCodeWise/blob/main/code/java/src/main/java/linkedlist/CircularLinkedList.java)
+* [DoublyLinkedList](https://github.com/abhishek-honey/travelHimalayasCodeWise/blob/main/code/java/src/main/java/linkedlist/DoublyLinkedList.jav)
 ### Resources
 * [Geeks For Geeks Data Structures Page](https://www.geeksforgeeks.org/data-structures/)
 * [Geeks For Geeks Linked List Page](https://www.geeksforgeeks.org/data-structures/linked-list/)
