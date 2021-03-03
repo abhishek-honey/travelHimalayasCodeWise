@@ -3,7 +3,6 @@
 - [Travel Himalayas code wise](#travel-himalayas-code-wise)
   - [4 March 2021](#4-march-2021)
     - [Introduction](#introduction)
-    - [Traveling Guide](#traveling-guide)
     - [Linked List](#linked-list)
     - [Circular Linked List](#circular-linked-list)
     - [Doubly Linked List](#doubly-linked-list)
@@ -26,10 +25,33 @@
 ## 4 March 2021
 
 ### Introduction
-### Traveling Guide
+
+* What are we going to do here?
+* What is the scope of this meeting?
+* Github setup
+  * [Git Repo](https://github.com/abhishek-honey/git)
+  * [Github fork and pull request {Youtube Video}](https://www.youtube.com/watch?v=rgbCcBNZcdQ)
+* Coding environment setup.
+  * Eclipse(Java)
+  * Pycharm(Python)
+  * Visual Studio COde
+
 ### Linked List
+* What is a linked list?
+* Application of linked list
+  * [Geeks for Geeks](https://www.geeksforgeeks.org/applications-of-linked-list-data-structure/)
+  * [Stackoverflow](https://stackoverflow.com/questions/644167/what-is-a-practical-real-world-example-of-the-linked-list)
 ### Circular Linked List
+* What is a circular linked list?
+* Application of circular linked list
+  * [Geeks for Geeks](https://www.geeksforgeeks.org/circular-linked-list/)
+  * [Stackoverflow](https://stackoverflow.com/questions/3589772/why-exactly-do-we-need-a-circular-linked-list-singly-or-doubly-data-structur)
+  * [Quora](https://www.quora.com/What-is-real-life-use-of-circular-doubly-linked-lists)
 ### Doubly Linked List
+* What is a doubly linked list?
+* Application of doubly linked list
+  * [Stackoverflow](https://stackoverflow.com/questions/40661716/real-life-use-of-doubly-linked-list)
+  * [Quora](https://www.quora.com/What-is-real-life-use-of-circular-doubly-linked-lists)
 ### Java Code
 ### Resources
 * [Geeks For Geeks Data Structures Page](https://www.geeksforgeeks.org/data-structures/)
