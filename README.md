@@ -55,7 +55,7 @@
 ### Java Code
 * [LinkedList](https://github.com/abhishek-honey/travelHimalayasCodeWise/blob/main/code/java/src/main/java/linkedlist/LinkedList.java)
 * [CircularLinkedList](https://github.com/abhishek-honey/travelHimalayasCodeWise/blob/main/code/java/src/main/java/linkedlist/CircularLinkedList.java)
-* [DoublyLinkedList](https://github.com/abhishek-honey/travelHimalayasCodeWise/blob/main/code/java/src/main/java/linkedlist/DoublyLinkedList.jav)
+* [DoublyLinkedList](https://github.com/abhishek-honey/travelHimalayasCodeWise/blob/main/code/java/src/main/java/linkedlist/DoublyLinkedList.java)
 ### Resources
 * [Geeks For Geeks Data Structures Page](https://www.geeksforgeeks.org/data-structures/)
 * [Geeks For Geeks Linked List Page](https://www.geeksforgeeks.org/data-structures/linked-list/)
