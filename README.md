@@ -34,7 +34,7 @@
 * Coding environment setup.
   * Eclipse(Java)
   * Pycharm(Python)
-  * Visual Studio COde
+  * Visual Studio Code
 
 ### Linked List
 * What is a linked list?
