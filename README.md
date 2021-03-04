@@ -27,6 +27,23 @@
 ### Introduction
 
 * What are we going to do here?
+	* Data Structures
+	* Algo(Basic)
+	* Leetcode
+	* Spring Boot
+	* API
+	* Postman
+	* Hibernate
+	* Sellinium
+	* System Design
+	* SQL
+	* Python(Basic not required)
+	* Networking
+	* Distributed System
+	* Operating System
+
+
+
 * What is the scope of this meeting?
 * Github setup
   * [Git Repo](https://github.com/abhishek-honey/git)
