@@ -7,6 +7,7 @@ public class LinkedList {
 	private static final Logger logger = LogManager.getLogger(LinkedList.class);
 
 	public Node head;
+	public Node last;
 
 	public Node getHead() {
 		return head;
@@ -58,7 +59,33 @@ public class LinkedList {
 
 	private void addRandomPostion(Integer data, Integer postiton) {
 		Node newNode = new Node(data, null);
-//		TODO : Brijesh
+		if (postiton < 1) {
+			logger.error("Position should be greater than 0");
+			return;
+		}
+		if (postiton == 1) {
+			newNode.next = head;
+			head = newNode;
+			return;
+		}
+
+		if (null == head) {
+			logger.error("Head is null");
+			return;
+		}
+
+		int count = 1;
+		Node current = head;
+		Node parent = head;
+
+		while (count < postiton && current != null) {
+			count++;
+			parent = current;
+			current = current.next;
+		}
+
+		parent.next = newNode;
+		newNode.next = current;
 	}
 
 	private int size() {
@@ -127,11 +154,15 @@ public class LinkedList {
 		logger.debug("Deleted head");
 		list.print();
 
+		list.addRandomPostion(22, -2);
+		logger.debug("Added 22 at -2");
+		list.print();
+		
 	}
 
 }
 
-class Node {
+class Node<E> {
 	Integer data;
 	Node next;
 
@@ -147,6 +178,11 @@ class Node {
 
 	public Node getNext() {
 		return next;
+	}
+
+	@Override
+	public String toString() {
+		return "Node [data=" + data + ", next=" + next + "]";
 	}
 
 }

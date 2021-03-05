@@ -1,6 +1,6 @@
 # Travel Himalayas code wise...
 
-- [Travel Himalayas code wise](#travel-himalayas-code-wise)
+- [Travel Himalayas code wise...](#travel-himalayas-code-wise)
   - [4 March 2021](#4-march-2021)
     - [Introduction](#introduction)
     - [Linked List](#linked-list)
@@ -77,6 +77,9 @@
 * [Geeks For Geeks Data Structures Page](https://www.geeksforgeeks.org/data-structures/)
 * [Geeks For Geeks Linked List Page](https://www.geeksforgeeks.org/data-structures/linked-list/)
 ## 5 March 2021
+* Linked List Complete
+* Stack
+* Queue
 ## 6 March 2021
 ## 7 March 2021
 ## 8 March 2021
